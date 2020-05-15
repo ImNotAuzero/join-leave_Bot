@@ -1,0 +1,19 @@
+{
+    "token": "",
+    "channels": {
+        "onlyOneChannel": {
+            "enabled": true,
+            "channelID": ""
+        },
+        "joinChannelID": "",
+        "leaveChannelID": ""
+    },
+    "randomiseMessages": true,
+    "roles": {
+      "autoAdd": false,
+      "roleID": ""
+    },
+    "messages": {
+        "sendInEmbeds": true
+    }
+}
