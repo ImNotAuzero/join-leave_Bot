@@ -1,0 +1,26 @@
+{
+  "name": "join-leave_bot",
+  "version": "1.0.0",
+  "description": "A discord bot which logs join and leave events in a desired channel. With auto-role on join",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImNotAuzero/join-leave_Bot.git"
+  },
+  "keywords": [
+    "ImNotAuzero",
+    "Join-Leave",
+    "Bot",
+    "discordBot",
+    "discord"
+  ],
+  "author": "ImNotAuzero (liam@liampbennett.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImNotAuzero/join-leave_Bot/issues"
+  },
+  "homepage": "https://github.com/ImNotAuzero/join-leave_Bot#readme"
+}

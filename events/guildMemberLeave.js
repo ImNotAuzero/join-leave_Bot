@@ -29,7 +29,7 @@ module.exports = async function(member) {
         .setAuthor(member.user.username)
         .setColor("RANDOM")
         .setDescription(msg)
-        .setFooter("GuildLog -> v1.0, Developed by Liam @ liampbennett.me")
+        .setFooter("GuildLog -> v1.0, Developed by Liam @ liampbennett.me");
         channelID.send(embed);
     } else {
         channelID.send(`${member} ${msg}`);

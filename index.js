@@ -9,7 +9,6 @@ const memberLeave = require("./events/guildMemberLeave");
 const onReady = require("./events/ready");
 
 client.on("ready", onReady);
-
 client.on("guildMemberAdd", memberJoin);
 client.on("guildMemberRemove", memberLeave);
 
